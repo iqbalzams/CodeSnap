@@ -7,7 +7,7 @@
 
 **CodeSnap** is a free, open-source browser utility designed to transform raw source code into beautiful, shareable images. Perfect for social media posts, developer documentation, presentations, and tutorials.
 
-🌍 **Live Demo:** [View CodeSnap Here](https://your-github-username.github.io/codesnap/) *(Update this link once hosted!)*
+🌍 **Live Demo:** [View CodeSnap Here](https://iqbalzams.github.io/CodeSnap/) *(Update this link once hosted!)*
 
 ## ✨ Features
 
